@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manojar15
 - 👀 I’m interested in Programming
-- 🌱 I’m currently IT Trainee at FIS Global
+- 🌱 I’m currently Software Engineer at FIS Global
 - 📫 How to reach me email : manojarasimane@gmail.com 
 
 <!---
